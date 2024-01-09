@@ -14,7 +14,7 @@ Welcome to the Airport Haven website! This React-based web application allows us
 - **Amadeus REST API:** The Amadeus API is used to fetch hotel information based on airport IATA codes, providing users with up-to-date and relevant details about available 
   accommodations.
 
-  ### I could not complete the project because Amadeuse do not have the hotels features in their database, that brought the project to an abrupt end!!
+  ### *I could not complete the project because Amadeuse do not have the hotels features in their database, that brought the project to an abrupt end!!*
 
   ## Contributions
   Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
